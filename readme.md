@@ -1,4 +1,4 @@
-# Memory Management Unit (MMU)
+# Memory Management Unit (MMU) - Server
 
 ## About
 
@@ -16,6 +16,9 @@ The client requests from the server GET/UPDATE/DELETE requests while the server 
 for making replacements (in that case LRU), and it will execute the replacements according to this algorithm.
 In addition, the server computes action statistics and sends back to the client.
 
+[<img src="/readme/architechture.JPG"
+width="600"
+    hspace="10" vspace="10">](/readme/architechture.JPG)
 
 
 ## Features
@@ -31,5 +34,12 @@ With this project we learned the following features:
 - OS
 
 ## Screenshots
+[<img src="/readme/screenshot-1.JPG" align="left"
+width="400"
+    hspace="10" vspace="10">](/readme/screenshot-1.JPG)
+[<img src="/readme/screenshot-2.JPG" align="center"
+width="400"
+    hspace="10" vspace="10">](/readme/screenshot-2.JPG)
 
-
+## Client Project
+[Client Project](https://github.com/PeretzRon/MMU---Memory-Management-Unit---Client)
