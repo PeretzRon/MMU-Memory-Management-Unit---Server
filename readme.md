@@ -27,6 +27,7 @@ With this project we learned the following features:
 - Java
 - Client / Server
 - OOP
+- Unit tests - JUnit
 - Swing
 - MVC
 - Observe pattern
